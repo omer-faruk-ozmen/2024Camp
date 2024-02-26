@@ -1,0 +1,15 @@
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\bin\Debug\net8.0\CodingIO.exe
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\bin\Debug\net8.0\CodingIO.deps.json
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\bin\Debug\net8.0\CodingIO.runtimeconfig.json
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\bin\Debug\net8.0\CodingIO.dll
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\bin\Debug\net8.0\CodingIO.pdb
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\obj\Debug\net8.0\CodingIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\obj\Debug\net8.0\CodingIO.AssemblyInfoInputs.cache
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\obj\Debug\net8.0\CodingIO.AssemblyInfo.cs
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\obj\Debug\net8.0\CodingIO.csproj.CoreCompileInputs.cache
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\obj\Debug\net8.0\CodingIO.sourcelink.json
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\obj\Debug\net8.0\CodingIO.dll
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\obj\Debug\net8.0\refint\CodingIO.dll
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\obj\Debug\net8.0\CodingIO.pdb
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\obj\Debug\net8.0\CodingIO.genruntimeconfig.cache
+C:\Users\ofo\Desktop\Desktop\Software\Learning\CSharp\EnginDemirogCSharpCamp\CodingIO\CodingIO\obj\Debug\net8.0\ref\CodingIO.dll
