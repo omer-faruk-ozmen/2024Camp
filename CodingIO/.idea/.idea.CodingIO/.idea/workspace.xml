@@ -8,16 +8,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b77eb73f-6dd8-4f3e-bed2-7e34aeae8b7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CodingIO/Entities/BaseEntity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingIO/Entities/Category.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingIO/Entities/Course.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingIO/Entities/Instructor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingIO/DataAccess/Abstracts/ICategoryDal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingIO/DataAccess/Abstracts/ICourseDal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingIO/DataAccess/Abstracts/IInstructorDal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingIO/DataAccess/Abstracts/IRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingIO/DataAccess/Concretes/Repository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.vs/Learning/v17/.suo" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.vs/ProjectSettings.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.vs/VSWorkspaceState.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodingIO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodingIO/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodingIO/CodingIO.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CodingIO/CodingIO.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingIO/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CodingIO/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingIO/Entities/BaseEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CodingIO/Entities/BaseEntity.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EnginDemirogCamp/ClassMetotDemo/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/../../EnginDemirogCamp/ClassMetotDemo/App.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EnginDemirogCamp/ClassMetotDemo/ClassMetotDemo.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../EnginDemirogCamp/ClassMetotDemo/ClassMetotDemo.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EnginDemirogCamp/ClassMetotDemo/Customer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../EnginDemirogCamp/ClassMetotDemo/Customer.cs" afterDir="false" />
@@ -4677,6 +4679,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -4737,13 +4740,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708940695284</updated>
-      <workItem from="1708940696672" duration="1540000" />
+      <workItem from="1708940696672" duration="4954000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
